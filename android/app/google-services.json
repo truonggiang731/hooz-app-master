@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946595150891",
+    "project_id": "hooz-notification",
+    "storage_bucket": "hooz-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946595150891:android:5f80ba181ada62af783e6e",
+        "android_client_info": {
+          "package_name": "com.rk.hooz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946595150891-ku93fhosm7sm27j8odal1lshu06jjt72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASRpqYrH-UpbOFzXCsiHtJT1094qIXugo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946595150891-ku93fhosm7sm27j8odal1lshu06jjt72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

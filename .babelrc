@@ -1,0 +1,23 @@
+{
+  "presets": ["babel-preset-expo"],
+  "plugins": [
+    "module:react-native-dotenv",
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "@components": "./components",
+          "@navigation": "./navigation",
+          "@screens": "./screens",
+          "@constants": "./constants",
+          "@services": "./services",
+          "@hooks": "./hooks",
+          "@helpers": "./helpers",
+          "@icons": "./assets/icons/MingCute/svg",
+          "@redux": "./redux"
+        }
+      }
+    ]
+  ]
+}
